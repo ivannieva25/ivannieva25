@@ -1,5 +1,5 @@
 # ¡Descubre el poder de los datos conmigo!💼📊
-¡Hola! Soy Ivan Nieva, un apasionado del análisis de datos con un enfoque innovador y una mentalidad orientada a los resultados. Mi misión es transformar los datos en información significativa que impulse decisiones estratégicas y soluciones efectivas.🚀
+¡Hola! Soy  un apasionado del análisis de datos con un enfoque innovador y una mentalidad orientada a los resultados. Mi misión es transformar los datos en información significativa que impulse decisiones estratégicas y soluciones efectivas.🚀
 
 ## Acerca de mí🌟
 - Con una sólida formación en análisis de datos y programación, estoy preparado para enfrentar los desafíos más complejos y encontrar soluciones innovadoras. 💡
