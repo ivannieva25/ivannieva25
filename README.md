@@ -6,7 +6,5 @@
 - Mi enfoque meticuloso y mi capacidad para ver el panorama completo me permiten identificar patrones y tendencias que otros podrían pasar por alto. 🔍
 - Creo en la importancia de la comunicación clara y efectiva en el análisis de datos, y estoy comprometido a presentar resultados de manera visualmente impactante y fácil de entender. 💬
 ## Habilidades
-- Python 🐍
-- Tableau, Power BI 📊
-- Excel 📊
-- Pandas, NumPy y Matplotlib 🐼🔢📊
+- Power BI:  Utilizo esta poderosa herramienta para crear informes interactivos y paneles de control que permiten a los usuarios explorar y comprender mejor sus datos. 📊
+-Visualización de Datos: Tabrajo en la creación de visualizaciones atractivas y efectivas, lo que permite a las organizaciones tomar decisiones informadas basadas en datos. 📊
