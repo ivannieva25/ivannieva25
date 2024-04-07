@@ -9,3 +9,6 @@
 - Power BI:  Utilizo esta poderosa herramienta para crear informes interactivos y paneles de control que permiten a los usuarios explorar y comprender mejor sus datos. 📊
 
 - Visualización de Datos: Tabrajo en la creación de visualizaciones atractivas y efectivas, lo que permite a las organizaciones tomar decisiones informadas basadas en datos. 📊
+## Proyectos 
+- Empresa Appol:
+https://github.com/ivannieva25/proyecto_analisis_empresa_appol
